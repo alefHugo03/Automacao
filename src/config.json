@@ -1,0 +1,10 @@
+{
+    "spreadsheet_url": "https://docs.google.com/spreadsheets/d/1-wEv5GxryB_FRqNOogL588S0nxKOrWbg6oRgDUmK1fo/edit?gid=1692298424#gid=1692298424",
+    "maling_spreadsheet_url": "https://docs.google.com/spreadsheets/d/1Tk1z2J0f3bXvwPNxkX91tM1WsLdaBKPTqMahlI4VtWc/edit?gid=1876610813#gid=1876610813",
+    "credentials_path": "../credentials.json",
+    "driver_path": "",
+    "login_nao_perturbe": {
+        "usuario": "alef.tlgsolucoes@gmail.com",
+        "senha": "Solucoes!01"
+    }
+}
